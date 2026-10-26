@@ -3,24 +3,24 @@
   "product": "NamiTalk",
   "channel": "stable",
   "platform": "windows-x64",
-  "tag": "namitalk-app-v2.6.0",
-  "version": "2.6.0",
-  "generatedAt": "2026-10-23T07:15:46.9847325+00:00",
+  "tag": "namitalk-app-v2.7.0",
+  "version": "2.7.0",
+  "generatedAt": "2026-10-26T08:46:59.3395299+00:00",
   "artifacts": [
     {
       "name": "latest.yml",
       "size": 369,
-      "sha256": "28c5e05d8134c6b88d0ceabd132d1b535509073be539984ff6d71e62298e7002"
+      "sha256": "9e89d44b5977c4a1f830b51c141c3c9ce5a3116ff506ccbf2d69082a3c8076c4"
     },
     {
-      "name": "NamiTalk-2.6.0-windows-x64-setup.exe",
-      "size": 149342013,
-      "sha256": "118a1995548cd7cda1bdbdc719c0b4b0ad250536c08411fef85c39a01df6e403"
+      "name": "NamiTalk-2.7.0-windows-x64-setup.exe",
+      "size": 149387838,
+      "sha256": "d71a637222c7ce3f81d7a872673356a76622cc3eddb150fca2aa3088a8b18e9c"
     },
     {
-      "name": "NamiTalk-2.6.0-windows-x64-setup.exe.blockmap",
-      "size": 151843,
-      "sha256": "0500dc4d2285d68adc3b6a5757312c75a08228fa4e1d607b90ddccbe1c15cf50"
+      "name": "NamiTalk-2.7.0-windows-x64-setup.exe.blockmap",
+      "size": 152409,
+      "sha256": "d4c4e8fa14929011cbc7dbc6a2416c704ab84fd77f8fa467edfbb2da300854e8"
     }
   ]
 }
